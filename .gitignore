@@ -1,0 +1,5 @@
+.env
+.env.local
+.env.uat
+.env.prod
+
